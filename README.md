@@ -3,7 +3,7 @@ a simple __Bash script__ to Download public __Facebook__ Videos
 <br><br>
 __how to use__:<br>
 * right click on the video and copy the video url
-* run the script as: <br>`$ bash fbvid.sh`  <copied_video_url> 
+* run the script as: <br>`$ bash fbvid.sh  <copied_video_url>` 
 
 __Commands__ :<br>
 * `curl` : to download the HTML

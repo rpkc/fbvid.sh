@@ -16,6 +16,7 @@ __Comments__:<br>
 * `purpose` : Educational
 
 # Example
+```console
 $ `bash fbvid.sh` https://www.facebook.com/NoCopyrightSounds/videos/668942420602536/<br>
 [Downloading Page...]<br>
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
@@ -33,5 +34,5 @@ Resolving video.fccu11-1.fna.fbcdn.net (video.fccu11-1.fna.fbcdn.net)...<br>2405
 NCS - Rival x Egzod 100%[===================>] 518.86K   794KB/s    in 0.7s    
 
 2020-04-12 10:38:23 (794 KB/s) - ‘NCS - Rival x Egzod - Live A Lie (ft. Andreas Stone) | Facebook.mp4’ saved [531309/531309]
- 
+ ```
 
